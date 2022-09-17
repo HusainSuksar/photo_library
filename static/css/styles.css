@@ -31,7 +31,7 @@ margin-bottom:18%;
 }
 body{
  scroll-behavior: smooth;
-background-image:url(/static/images/Jamea\ emblem\ backdrop.png);
+background-image:url(/static/images/bg.png);
 background-attachment:fixed;
 background-repeat:no-repeat;
 background-position:center;
